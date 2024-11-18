@@ -1,0 +1,11 @@
+{
+  "contacts": [
+    {
+      "id": "7d37",
+      "name": "Sooraj",
+      "email": "soorajkannan2000@gmail.com",
+      "phone": "3123123312",
+      "fav": true
+    }
+  ]
+}
